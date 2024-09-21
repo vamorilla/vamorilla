@@ -12,8 +12,8 @@
 ---
 ### :sunglasses: Acerca de mi
 
-- :mortar_board: Preguntame sobre JavaScript/TypeScript, Angular, Java
-- :seedling: Actualmente estoy aprendiendo React
+- :mortar_board: Preguntame sobre JavaScript/TypeScript, React, Next.js
+- :seedling: Actualmente sigo profundizando y aprendiendo cosas nuevas
 
 ---
 <div align="left">
